@@ -1,0 +1,12 @@
+Pendencias 
+Botão "Conhecer mais" ir para pagina "sobre nos"
+
+Botao "ver mais..." ir para pagina "Produtos"
+
+
+botão "ver Promocoes" ir para pagina "Contato"
+
+botao "enviar do rodape" aparecer mesagem de envio ok
+
+
+linkar os icones do facebook e instagram no rodape
